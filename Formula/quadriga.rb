@@ -1,10 +1,10 @@
 class Quadriga < Formula
     desc "Create Secure Tunnels for your web application"
     homepage "https://github.com/stefangrosaru/homebrew-quadriga"
-    url "https://github.com/stefangrosaru/homebrew-quadriga/releases/download/0.0.6/quadriga.tar.gz"
-    sha256 "038aba553702352d621c003f23d4b7aa8ea43318a264de5c2a73653b8a7491d7"
+    url "https://github.com/stefangrosaru/homebrew-quadriga/releases/download/1.0.1/quadriga.tar.gz"
+    sha256 "b694db78dc3832fa1726a7b3e48e543d2810af0a37aa6663595d2dbef768e3df"
     license "NONE"
-    version "0.0.6"
+    version "1.0.1"
   
     def install
       bin.install "quadriga"
